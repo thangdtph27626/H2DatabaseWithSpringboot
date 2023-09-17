@@ -1,4 +1,4 @@
-# cơ sở dữ liệu H2 database, spring boot với h2 database
+# Cơ sở dữ liệu H2 database, spring boot với h2 database
 
 ## Cơ sở dữ liệu h2 database 
 
@@ -264,7 +264,8 @@ public class DepartmentController {
 
 1: POST – http://localhost:8080/departments/ 
 
-![image](https://github.com/thangdtph27626/H2DatabaseWithSpringboot/assets/109157942/5f989e9d-4d47-440c-9ac5-e9039d62e22d)
+![image](https://github.com/thangdtph27626/H2DatabaseWithSpringboot/assets/109157942/0c6e10e1-89a6-4aaf-8b3b-a43d9afd8cd6)
+
 
 
 2: GET – http://localhost:8080/departments/ 
